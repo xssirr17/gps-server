@@ -1,0 +1,16 @@
+html,
+body {
+    margin: 0;
+    overflow: hidden;
+    color:var(--text);
+    background-color:var(--background);
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
+* {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}

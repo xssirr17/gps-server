@@ -1,0 +1,1 @@
+import{r}from"./index-b8005550.js";import"./runtime-core.esm-bundler-8e25eac6.js";const n={__name:"exitAdmin",setup(e){return localStorage.removeItem("admin"),r.push("/login"),(t,o)=>null}};export{n as default};
